@@ -1,2 +1,2 @@
-# 40-Day-Skill-Development
+# 40-Days-Skill-Development
 My 40-day placement preparation journey.
